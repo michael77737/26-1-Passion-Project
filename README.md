@@ -1,40 +1,19 @@
 # Passion Project
 
-## Overview
-Your passion project is the capstone of your time in this program. You will pitch an idea, get it approved, and spend the majority of the remaining program building it. This is your opportunity to work on something you genuinely care about, explore technologies on your own, and ship something real.
+## SkillProof
 
----
-
-## Guidelines
-
-### What Your Project Must Have
-- A frontend the user can interact with
-- A working backend that handles data and logic
-- A real problem solved for a real user
-
-### What Will Not Be Approved
-- **No backend** — a frontend-only app is not a full-stack project
-- **Too large in scope** — you are building a feature, not a startup. If it sounds like a company, scale it down
-- **Vague ideas** — "a social media app" is not enough. If you cannot describe the specific problem it solves, keep thinking
-
----
-
-## Proposal
-
-Create a new repository on GitHub for your project and add this file as `README.md` at the root. Fill out the four sections below and share the repo link with your instructor for review.
-
-**Do not start coding until you receive approval.**
+Builds real work history quickly and helps small businesses too. it builds quick credibility & experience you can prove instantly in the job mar
 
 ---
 
 ### Elevator Pitch
-In 2–3 sentences, what does your app do and who is it for?
+SkillProof is a platform where young adults can complete short, paid micro-projects from local businesses to gain real, verifiable work experience. Each completed task earns users skill badges they can instantly showcase to employers. It’s designed for people struggling to break into the job market without prior experience.
 
 ### Problem Statement
-What problem are you solving and why does it need to exist?
+Many young adults are stuck in a cycle where they cannot get a job without experience, but cannot gain experience without a job. Traditional entry-level roles still require prior work history, leaving capable individuals overlooked. There is a need for a system that allows people to quickly build credible, real-world experience in a flexible and accessible way.
 
 ### Target User
-Who is the specific person that would use this every day? Be specific not "everyone," but a real person with a real need.
+A motivated young adult (ages 16–25), such as a student or recent graduate, who is actively trying to enter the workforce but lacks formal job experience. They are eager to work, build skills, and prove their value, but need quick, legitimate opportunities to do so. They likely use their phone daily and are comfortable completing short, task-based work. Overall on a grand scale this App is aimed to assist all age groups that wish to be resourcful and expand in thier Job opportunity/career
 
 ### Why This Project
-Why do you personally care about building this? What is your connection to the problem?
+I care about this project because I recognize how frustrating it is to be capable but overlooked due to lack of experience. Many people have the skills and drive but no way to prove it. SkillProof creates a fair system where effort and ability can be demonstrated quickly, helping people build confidence, credibility, and real opportunities while also supporting local businesses.
